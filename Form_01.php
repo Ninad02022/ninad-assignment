@@ -54,7 +54,7 @@
 ?>
 
 <div class="container mt-3">
-<h1>Enter your details to contact us:</h1>
+<h1>Enter your details to contact us : </h1>
     <form action="/us_splash/ninad/Form_01.php" method="post">
     <div class="form-group">
         <label for="Name">Name</label>
